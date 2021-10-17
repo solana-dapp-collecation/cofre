@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "@project-serum/anchor": "^0.17.0",
+    "@project-serum/anchor": "0.17.1-beta.1",
     "@solana/spl-token": "^0.1.8",
-    "@solana/web3.js": "^1.29.2"
-  },
-  "devDependencies": {
-    "ts-mocha": "^8.0.0"
+    "@solana/web3.js": "^1.29.2",
+    "@types/expect": "^24.3.0",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^14.14.37",
+    "ts-mocha": "^8.0.0",
+    "typescript": "^4.4.4"
   }
 }
